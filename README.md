@@ -1,196 +1,153 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:6A5ACD&height=220&section=header&text=Tushar%20Kumar%20Sahoo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Bhubaneswar,%20India&descAlignY=55&descSize=20" />
+<h1 align="center">Hi 👋, I'm Tushar Kumar Sahoo</h1>
+<h3 align="center">🚀 MERN Stack Developer | Full Stack Engineer | B.Tech CSE (2026)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React.js+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://tushar-portfolio-blue.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tusharkumarsahoo26@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Engineer;React+%7C+Node+%7C+MongoDB;Building+Secure+%26+Scalable+Apps;Always+Learning+New+Tech" />
 </p>
 
 ---
 
-
-### 🚀 About Me
-
-- 🎓 B.Tech in Computer Science Engineering (2026) @ **GIFT Autonomous, Bhubaneswar**
-- 💻 Specializing in **MERN Stack** & **Python** development
-- 🔭 Currently building secure, scalable full-stack apps with REST APIs & payment gateway integrations
-- 🌱 Actively exploring real-time systems, cloud deployment, and clean UI/UX design
-- 👨‍💻 Experienced across **3 internships**, shipping live, production-deployed projects
-- 📫 Reach me at **tusharkumarsahoo26@gmail.com**
-- ⚡ Fun fact: I turn ideas into deployed, working products — not just code on a screen
-
----
-
-### 🛠️ Tech Stack
+## 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,vscode,idea,figma,py" />
+  <a href="https://github.com/Tushar-2626"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:tusharkumarsahoo26@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
 
-### 💼 Experience
+## 🧑‍💻 Profile Summary
 
-```text
-Oct 2025 – Mar 2026   |  MERN Stack Development Intern  @ MoovOn Services & Solutions Pvt. Ltd.
-May 2024 – Jul 2024   |  Full Stack Web Development Intern  @ Web_Bocket Software Pvt. Ltd.
-May 2023 – Jul 2023   |  Programming Intern  @ IIG Varsity
-```
+💡 B.Tech CSE student (2026) specializing in **MERN Stack & Python Development**  
+🚀 Experienced in building **secure, scalable full-stack applications**  
+🔐 Skilled in **REST APIs, authentication, payment integration, and responsive UI design**
 
 ---
 
-### 🌟 Featured Projects
+## ⚡ Tech Stack
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🏨 QuickStay — Multi-Vendor Hotel Reservation System</h4>
-      <p>Full-stack hotel booking platform with Stripe payments, Clerk auth, Cloudinary uploads, and automated email pipelines via Brevo/Nodemailer. Reduced data retrieval time by ~20% via optimized MongoDB queries.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-      </p>
-      <a href="https://quickstay-lyart-omega.vercel.app/">🔗 Live Demo</a>
-    </td>
-    <td width="50%">
-      <h4>💰 FinTrack — Expense Management System</h4>
-      <p>Responsive single-page expense tracker built with React.js, logging and categorizing 50+ daily financial records with real-time state updates and optimized search performance.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <a href="https://fintrack-react-amber.vercel.app/">🔗 Live Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🍔 Food Ordering & Management System</h4>
-      <p>Scalable full-stack food delivery platform with role-based access control, real-time order tracking, dynamic menus, and integrated Stripe payments.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-MERN-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h4>🌦️ Weather App</h4>
-      <p>Interactive JavaScript dashboard fetching and parsing live environmental data from external RESTful APIs, with streamlined DOM manipulation for instant UI updates.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/-REST%20API-025E8C?style=flat-square&logo=fastapi&logoColor=white"/>
-      </p>
-      <a href="https://weather-app-sigma-two-20.vercel.app/">🔗 Live Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🎙️ Voice Assistant</h4>
-      <p>Local voice assistant capable of executing system commands, launching apps, and browsing websites via real-time speech-to-text parsing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-SpeechRecognition-4285F4?style=flat-square&logo=googleassistant&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h4>💬 QuickChat — Realtime Chat Application</h4>
-      <p>Real-time chat app with Socket.io, JWT authentication, and Cloudinary media uploads, built on a React/Vite/Tailwind frontend and Node/Express/MongoDB backend.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,vscode,figma,postman" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 💼 Experience
+
+### 🏢 MERN Stack Development Intern  
+**MoovOn Services & Solutions Pvt. Ltd. (Oct 2025 – Mar 2026)**  
+
+🔹 Developed **QuickStay – Multi-Vendor Hotel Reservation System**  
+🔹 Optimized MongoDB queries (~20% faster performance)  
+🔹 Integrated **Stripe payments, Clerk authentication, Cloudinary**  
+🔹 Built automated email system (Brevo + Nodemailer)  
+
+🔗 https://quickstay-lyart-omega.vercel.app/
+
+---
+
+### 🏢 Full Stack Web Development Intern  
+**Web_Bocket Software Pvt. Ltd. (May 2024 – July 2024)**  
+
+🔹 Built **FinTrack – Expense Management System**  
+🔹 Managed 50+ daily transactions with real-time updates  
+🔹 Improved search & sorting performance  
+
+🔗 https://fintrack-react-amber.vercel.app/
+
+---
+
+### 🏢 Programming Intern  
+**IIG Varsity (May 2023 – July 2023)**  
+
+🔹 Developed **Weather App using JavaScript APIs**  
+🔹 Real-time data fetching & dynamic UI  
+
+🔗 https://weather-app-sigma-two-20.vercel.app/
+
+---
+
+## 🚀 Projects
+
+### 🏨 QuickStay – Hotel Reservation Platform
+- MERN stack architecture  
+- Secure authentication (Clerk)  
+- Stripe payment integration  
+- Cloudinary image uploads  
+
+---
+
+### 🍔 Food Ordering & Management System
+- Role-based access system  
+- Real-time order tracking  
+- Dynamic menu & payments  
+
+---
+
+### 🎤 Voice Assistant
+- Python-based automation  
+- Executes system commands  
+- Speech recognition  
+
+---
+
+## 🎓 Education
+
+🎓 **B.Tech in Computer Science Engineering**  
+🏫 Gandhi Institute for Technology (GIFT Autonomous)  
+📅 2022 – 2026  
+📊 CGPA: **7.34**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tushar-2626&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Tushar-2626&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tushar-2626&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar-2626&theme=tokyonight" height="150"/>
 </p>
+
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-2626&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar-2626&theme=react-dark"/>
 </p>
+
+---
+
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar-2626&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tushar-2626&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
-### 🏆 Trophies
+---
+
+## 🧠 Quote
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tushar-2626&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
-### 🐍 Contribution Snake
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tushar-2626/Tushar-2626/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Tushar-2626/Tushar-2626/output/github-contribution-grid-snake.svg" />
 </p>
 
-> ⚠️ The snake animation needs a one-time GitHub Action set up in this repo — see the note at the bottom of this file.
+---
+
+## 💡 Fun Fact
+
+⚡ I build real-world applications focused on **performance, scalability, and user experience** 🚀  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tushar-2626&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  ⭐ From <b>Tushar Kumar Sahoo</b>
 </p>
-
-<h3 align="center">💡 "Turning ideas into deployed, scalable products — one commit at a time."</h3>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C4FF&height=100&section=footer" />
-
----
-
-<details>
-<summary>⚙️ How to enable the snake animation (one-time setup)</summary>
-
-1. In this repo (`Tushar-2626/Tushar-2626`), go to **Actions → New workflow → set up a workflow yourself**.
-2. Name the file `snake.yml` and paste:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Tushar-2626
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Commit it, then run the workflow once manually from the **Actions** tab (`Run workflow`).
-4. After it finishes, the snake image will appear automatically in your README within a few minutes.
-</details>
