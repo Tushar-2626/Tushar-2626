@@ -121,12 +121,12 @@ Fun Fact:    I don't just write code — I ship it, deploy it, and debug it live
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tushar-2626&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tushar-2626&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&cache_seconds=86400" />
 <img height="165" src="https://streak-stats.demolab.com/?user=Tushar-2626&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-2626&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-2626&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
 </div>
 
 <div align="center">
