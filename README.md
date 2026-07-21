@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tushar Kumar Sahoo</h1>
-<h3 align="center">A passionate MERN Stack Developer from Bhubaneswar, Odisha, India 🇮🇳</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:6A5ACD&height=220&section=header&text=Tushar%20Kumar%20Sahoo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Bhubaneswar,%20India&descAlignY=55&descSize=20" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React.js+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -18,6 +17,7 @@
 </p>
 
 ---
+
 
 ### 🚀 About Me
 
@@ -119,18 +119,78 @@ May 2023 – Jul 2023   |  Programming Intern  @ IIG Varsity
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tushar-2626&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Tushar-2626&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-2626&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar-2626&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tushar-2626&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tushar-2626/Tushar-2626/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
+> ⚠️ The snake animation needs a one-time GitHub Action set up in this repo — see the note at the bottom of this file.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Tushar-2626&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <h3 align="center">💡 "Turning ideas into deployed, scalable products — one commit at a time."</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C4FF&height=100&section=footer" />
+
+---
+
+<details>
+<summary>⚙️ How to enable the snake animation (one-time setup)</summary>
+
+1. In this repo (`Tushar-2626/Tushar-2626`), go to **Actions → New workflow → set up a workflow yourself**.
+2. Name the file `snake.yml` and paste:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Tushar-2626
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Commit it, then run the workflow once manually from the **Actions** tab (`Run workflow`).
+4. After it finishes, the snake image will appear automatically in your README within a few minutes.
+</details>
